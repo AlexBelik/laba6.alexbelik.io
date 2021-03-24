@@ -1,1 +1,1 @@
-# laba6.alexbelik.io
+# laba6.github.io
